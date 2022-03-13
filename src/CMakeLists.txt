@@ -8,4 +8,5 @@ PUBLIC
     AudioLibrary.cpp
     Reader.cpp
     Speaker.cpp
+    DataLoader.cpp
 )
