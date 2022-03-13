@@ -22,4 +22,4 @@ cmake ..
 cmake --build .
 ```
 
-and type ```./speech_synthesizer``` to play a demonstration
+and type ```./speech_synthesizer ../exampl.txt``` to play a demonstration
