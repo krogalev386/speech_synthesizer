@@ -13,7 +13,7 @@ make
 sudo make install
 ```
 
-After can download this repo and install it via CMake:
+After that you can download this repo and install it via CMake:
 ```
 git clone <this_repo>
 mkdir build
